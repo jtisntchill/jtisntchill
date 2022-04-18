@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jtisntchill
 - 👀 I’m interested in women of all sizes
-- 🌱 I’m currently learning java script
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on a website dedicated
 - 📫 How to reach me: just dont
 
